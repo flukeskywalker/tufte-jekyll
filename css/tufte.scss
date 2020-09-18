@@ -305,7 +305,8 @@ p, footer, div.table-wrapper,  .MJXc-display { width: 55%; }
 
 div.table-wrapper, table { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
 
-@media screen and (max-width: 760px) { p, footer { width: 90%; }
+@media screen and (max-width: 760px) { body { padding-left: 0; }
+									   p, footer { width: 90%; }
                                        pre code { width: 87.5%; }
                                        ul { width: 85%; }
                                        figure { max-width: 90%; }
