@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Edge Cases"
+title:  "ClipUp: <br>Simple and Powerful Optimizer for Distribution-based Policy Evolution"
 date:   2020-04-13 17:04:01
 categories: post
 ---
